@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  EncryptDecryptServer.cpp
+  Generating Code...
+     Creating library C:\Users\NIRANJAN\OneDrive\Desktop\EncryptDecryptServer\x64\Debug\EncryptDecryptServer.lib and object C:\Users\NIRANJAN\OneDrive\Desktop\EncryptDecryptServer\x64\Debug\EncryptDecryptServer.exp
+  EncryptDecryptServer.vcxproj -> C:\Users\NIRANJAN\OneDrive\Desktop\EncryptDecryptServer\x64\Debug\EncryptDecryptServer.dll
